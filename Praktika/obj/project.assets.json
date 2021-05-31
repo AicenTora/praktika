@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Theme1/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Theme1.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Theme1.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Theme1/1.0.0": {
-      "type": "project",
-      "path": "../Theme1/Theme1.csproj",
-      "msbuildProject": "../Theme1/Theme1.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Theme1 >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\ilnoo\\.nuget\\packages\\": {}
@@ -53,11 +34,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj": {
-              "projectPath": "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
