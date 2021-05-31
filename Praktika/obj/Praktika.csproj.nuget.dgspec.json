@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyDevelop\\Vladik\\Praktika\\Praktika\\Praktika.csproj": {}
+  },
+  "projects": {
+    "D:\\MyDevelop\\Vladik\\Praktika\\Praktika\\Praktika.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelop\\Vladik\\Praktika\\Praktika\\Praktika.csproj",
+        "projectName": "Praktika",
+        "projectPath": "D:\\MyDevelop\\Vladik\\Praktika\\Praktika\\Praktika.csproj",
+        "packagesPath": "C:\\Users\\ilnoo\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelop\\Vladik\\Praktika\\Praktika\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ilnoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.akbars.tech/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj": {
+                "projectPath": "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj",
+        "projectName": "Theme1",
+        "projectPath": "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\Theme1.csproj",
+        "packagesPath": "C:\\Users\\ilnoo\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelop\\Vladik\\Praktika\\Theme1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ilnoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.akbars.tech/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

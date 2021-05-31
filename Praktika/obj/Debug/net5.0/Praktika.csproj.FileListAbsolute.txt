@@ -1,0 +1,16 @@
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.csprojAssemblyReference.cache
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.AssemblyInfoInputs.cache
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.AssemblyInfo.cs
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.csproj.CoreCompileInputs.cache
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\Praktika.exe
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\Praktika.deps.json
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\Praktika.runtimeconfig.json
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\Praktika.runtimeconfig.dev.json
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\Praktika.dll
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\ref\Praktika.dll
+D:\MyDevelop\Vladik\Praktika\Praktika\bin\Debug\net5.0\Praktika.pdb
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.dll
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\ref\Praktika.dll
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.pdb
+D:\MyDevelop\Vladik\Praktika\Praktika\obj\Debug\net5.0\Praktika.genruntimeconfig.cache
